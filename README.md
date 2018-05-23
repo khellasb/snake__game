@@ -34,3 +34,5 @@ We decided to split the work in three parts :
 
 This is just a representation of the work because the display module will be easier ( I guess) than the calculate module, so both of us will do the Calculate module.
 
+- Our game is a basic Snake game. To play, you will need to install python3, dowload PYGAMES packages and random functions (already included in the python3 I guess)
+- You can play by pressing Z to go UP, D to RIGHT, Q to go LEFT, S to go DOWN and ESC to exit. Have fun !!
